@@ -1,5 +1,9 @@
 # Avenir Group
 
+![image](https://github.com/user-attachments/assets/02f57c86-0e70-41bb-a103-471888a7e3c6)
+
+
+
 ## WHO WE ARE ?
 
 Inspired by the French word for “a better future,” Avenir Group is a pioneering institutional family office and investment management group dedicated to investing in emerging technologies through the financial technology innovation. With a global footprint in the United States, the United Kingdom, Japan, Singapore and Hong Kong, Avenir Group engages in an extensive range of multi-asset class, multi-strategy investments in both traditional financial and digital asset sectors. Avenir Group strives to maintain a leading position in the industry with deep insights and excellence in the Web3 and crypto asset space.
@@ -17,7 +21,7 @@ We are dedicated to mapping a global multi-asset allocation, identifying potenti
 
 We are at the forefront of emerging technology, with a focus on artificial intelligence (AI). We aim to be an agent of change, as a long-term capital partner, to back innovating businesses and pioneering entrepreneurs.
 
-##Avenir FOUNDATION
+## Avenir FOUNDATION
 
 We have funded numerous educational and research projects in Asia and plan to expand globally. Avenir Foundation is dedicated to promoting educational innovation, talent development, and academic research.
 
@@ -54,3 +58,5 @@ Avenir Group Becomes Top Institutional Holder of Two Major Bitcoin ETFs in Asia 
 
 ## WORK WITH EXCEPTIONAL TALENT
 At Avenir Group, talented investment teams and technologists work together to develop, execute and be part of innovative and platinum projects. We bring together brilliant minds to do what others consider as impossible.
+
+![image](https://github.com/user-attachments/assets/f050efd1-2da8-4ae8-975e-69c2f631980f)
